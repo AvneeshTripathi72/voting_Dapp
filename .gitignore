@@ -1,0 +1,14 @@
+# Hardhat files
+node_modules
+.env
+artifacts
+cache
+coverage
+coverage.json
+typechain
+typechain-types
+ephemeral_gemini_token.txt
+
+# General
+.DS_Store
+Thumbs.db
